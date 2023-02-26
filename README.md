@@ -14,6 +14,10 @@ N/A
 ## Usage
 When you click the generate password button you will then be asked a series of questions. Based on those questions you will add criteria to the generator and it will then create a password for you. 
 
+Link to live site:
+
+https://matthewmontiel.github.io/Module-3-challenge-password-generator/
+
 ![image](https://user-images.githubusercontent.com/120674910/221426142-4111bcd2-b764-4af6-9623-f75a4bb949a2.png)
 
 ## Credits
