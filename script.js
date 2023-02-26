@@ -43,7 +43,8 @@ function generatePassword() {
   }
   console.log(passwordCriteria)
   
-  
+
+  // Creates the password using Math floor and Math random and the given length
   let magicPass = ""
   for (var i = 0; i < passwordLength; i++) {
     magicPass = magicPass + passwordCriteria[Math.floor(Math.random() * passwordCriteria.length)];
