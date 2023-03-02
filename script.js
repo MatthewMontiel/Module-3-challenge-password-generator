@@ -11,7 +11,7 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
   //Prompt user for password Length
-  let passwordLength = (prompt("How many long would you like your password? Enter a number between 8-128"));
+  let passwordLength = (prompt("How many characters long would you like your password? Enter a number between 8-128"));
   // If password is outside of selection the prompt will return with a error prompt
   if (passwordLength <= 8 || passwordLength >= 128) {
     prompt("number is outside of character range");
